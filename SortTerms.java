@@ -35,9 +35,7 @@ public class SortTerms
 
 /*
 
-D:\mahesh\home-120324\continue>javac SortTerms.java
 
-D:\mahesh\home-120324\continue>java SortTerms
 
 // Before in terms.txt
 
