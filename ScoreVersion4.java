@@ -37,9 +37,7 @@ class ScoreVersion4
 /*
 
 
-D:\mahesh\home-120324\continue>javac ScoreVersion4.java
 
-D:\mahesh\home-120324\continue>java ScoreVersion4
 Enter the score: 110
 Error: Score must be in 0-100.
 Enter the score: 75
