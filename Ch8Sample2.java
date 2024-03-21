@@ -37,15 +37,3 @@ class Ch8Sample2
 }
 
 
-/*
-
-D:\mahesh\home-120324>javac Ch8Sample2.java
-
-D:\mahesh\home-120324>java Ch8Sample2
-
-Enter an integer for n: 10
-
-The answer is 55
-
-
-*/
