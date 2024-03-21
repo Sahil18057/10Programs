@@ -54,14 +54,3 @@ class RegPolygon
     }
 }
 
-/*
-
-
-D:\mahesh\home-120324>javac Ch9Sample1.java
-
-D:\mahesh\home-120324>java Ch9Sample1
-Enter the length of a side: 4
-
-The area is: $5.2f
-
-*/
