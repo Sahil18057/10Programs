@@ -1,21 +1,10 @@
 import java.util.*;
 
-/**
- * A program to calculate two roots of a quadratic equation.
- * Assume that a <> 0 and the relationship b^2 >= 4ac holds,
- * so there will be real number solutions for x.
- * 
- * @author James T. Streib and Takako Soma
- * 
-*/
+
 
 public class QuadEq
 {
     
-/**
- * This method inputs three numbers then calculates and
- * outputs two roots.
- */
  
     public static void main(String[] args)
     {
