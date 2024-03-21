@@ -47,10 +47,6 @@ public class MatrixMult
 
 /*
 
-D:\mahesh\home-120324\continue>javac MatrixMult.java
-
-D:\mahesh\home-120324\continue>java MatrixMult
-Enter filename: demo.txt
 
 // Before
 
