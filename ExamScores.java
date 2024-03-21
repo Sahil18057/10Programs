@@ -22,17 +22,3 @@ public class ExamScores
     }
 }
 
-
-/*
-
-
-D:\mahesh\home-120324>javac ExamScores.java
-
-D:\mahesh\home-120324>java ExamScores
-average for student 1: 82.67
-average for student 2: 91.33
-average for student 3: 71.67
-average for student 4: 94.00
-
-
-*/
