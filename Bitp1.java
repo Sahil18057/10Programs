@@ -74,21 +74,6 @@ class Bitp1
 }
 
 
-/*
 
-
-D:\mahesh\home-120324\continue>javac Bitp1.java
-
-D:\mahesh\home-120324\continue>java Bitp1
-
-Enter a binary number: 1011
- The binary number is: 00001011
-
-Enter an operation (|, ^ , &,, ~ ,  L , R ): L
-
- The binary number is: 00010110
-
-
-*/
 
         
