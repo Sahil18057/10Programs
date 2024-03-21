@@ -26,17 +26,3 @@ class Gcd
     }
 }
 
-
-/*
-
-
-D:\mahesh\home-120324>javac Gcd.java
-
-D:\mahesh\home-120324>java Gcd
-Enter first number : 15
-Enter second number: 18
-
-The greatest common divisor of 15 and 18 is 3.
-
-
-*/
