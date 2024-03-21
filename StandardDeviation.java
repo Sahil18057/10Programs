@@ -59,9 +59,7 @@ public class StandardDeviation
 /*
 
 
-D:\mahesh\home-120324>javac StandardDeviation.java
 
-D:\mahesh\home-120324>java StandardDeviation
 Enter the number of data: 5
 Enter the data 1: 2
 Enter the data 2: 3
