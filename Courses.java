@@ -22,20 +22,3 @@ class Courses
     }
 }
 
-
-/*
-
-
-D:\mahesh\home-120324>javac Course.java
-
-D:\mahesh\home-120324>javac Courses.java
-
-D:\mahesh\home-120324>java Courses
-Enter the course: CS 101 Java Programming
-
-The class, "Java Programming", is a
-first-year level class offered by the
-Computer Science department.
-
-
-*/
