@@ -44,29 +44,3 @@ public class Company
         System.out.println(employee [i].toString());
     }
 }
-
-/*
-
-
-D:\mahesh\home-120324\continue>javac Company.java
-
-D:\mahesh\home-120324\continue>java Company
-Enter number of employees: 2
-
-Enter id of employee 1: 18069
-Enter either 'f' for full-time or 'p' for part-time: f
-Enter salary of employee 1: 200000
-
-Enter id of employee 2: 16057
-Enter either 'f' for full-time or 'p' for part-time: p
-Enter hourly rate of employee 2: 10000
-Enter number of hours worked: 10
-
-An employee with ID 18069 is a full-time employee
-with salary $200000.00.
-
-An employee with ID 16057 is a part-time employee
-with wages $100000.00
-
-
-*/
