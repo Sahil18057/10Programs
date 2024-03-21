@@ -36,18 +36,3 @@ class Ch8Sample1
 }
 
 
-/*
-
-
-
-D:\mahesh\home-120324>javac Ch8Sample1.java
-
-D:\mahesh\home-120324>java Ch8Sample1
-
-Enter an integer for x: 5
-Enter an integer for n: 3
-
-The answer is 125
-
-
-*/
